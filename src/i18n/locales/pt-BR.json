@@ -1,0 +1,152 @@
+{
+  "navigation": {
+    "dashboard": "Painel",
+    "shifts": "Turnos",
+    "analytics": "Análises",
+    "expenses": "Despesas",
+    "goals": "Metas",
+    "tax": "Impostos",
+    "reports": "Relatórios",
+    "schedule": "Agenda",
+    "vehicles": "Veículos",
+    "settings": "Configurações",
+    "more": "Mais"
+  },
+  "common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "add": "Adicionar",
+    "close": "Fechar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "done": "Concluído",
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "retry": "Tentar novamente",
+    "confirm": "Confirmar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "total": "Total",
+    "weekly": "Semanal",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "today": "Hoje",
+    "this_week": "Esta semana",
+    "this_month": "Este mês"
+  },
+  "dashboard": {
+    "net_earnings": "Ganho líquido",
+    "hours": "Horas",
+    "kilometers": "Quilômetros",
+    "hourly_rate": "Taxa horária",
+    "this_week": "Esta semana",
+    "no_shifts": "Nenhum turno ainda",
+    "start_tracking": "Comece a registrar seu primeiro turno"
+  },
+  "shifts": {
+    "title": "Turnos",
+    "new_shift": "Novo turno",
+    "start_shift": "Iniciar turno",
+    "end_shift": "Encerrar turno",
+    "duration": "Duração",
+    "distance": "Distância",
+    "earnings": "Ganhos",
+    "tips": "Gorjetas",
+    "platform": "Plataforma",
+    "vehicle": "Veículo",
+    "route": "Rota",
+    "notes": "Notas",
+    "no_shifts": "Nenhum turno registrado",
+    "add_first": "Adicione seu primeiro turno"
+  },
+  "expenses": {
+    "title": "Despesas",
+    "new_expense": "Nova despesa",
+    "amount": "Valor",
+    "category": "Categoria",
+    "description": "Descrição",
+    "date": "Data",
+    "deductible": "Dedutível no IR",
+    "no_expenses": "Nenhuma despesa registrada",
+    "add_first": "Adicione sua primeira despesa"
+  },
+  "goals": {
+    "title": "Metas",
+    "weekly_goal": "Meta semanal",
+    "monthly_goal": "Meta mensal",
+    "yearly_goal": "Meta anual",
+    "progress": "Progresso",
+    "target": "Alvo",
+    "achieved": "Conquistado!",
+    "streak": "Sequência",
+    "days": "dias",
+    "xp": "XP"
+  },
+  "reports": {
+    "title": "Relatórios",
+    "monthly_summary": "Resumo mensal",
+    "export_csv": "Exportar CSV",
+    "total_earnings": "Total de ganhos",
+    "total_expenses": "Total de despesas",
+    "net": "Líquido",
+    "shifts_count": "Turnos",
+    "hours_worked": "Horas trabalhadas"
+  },
+  "settings": {
+    "title": "Configurações",
+    "profile": "Perfil",
+    "backup": "Backup",
+    "import": "Importar",
+    "language": "Idioma",
+    "currency": "Moeda",
+    "country": "País",
+    "theme": "Tema",
+    "about": "Sobre o Comma",
+    "privacy": "Privacidade",
+    "data": "Dados"
+  },
+  "profile": {
+    "title": "Perfil",
+    "name": "Nome",
+    "default_name": "Motorista",
+    "default_initials": "MT",
+    "country": "País",
+    "platforms": "Plataformas",
+    "primary_vehicle": "Veículo principal"
+  },
+  "vehicles": {
+    "title": "Veículos",
+    "new_vehicle": "Novo veículo",
+    "type_car": "Carro",
+    "type_scooter": "Scooter",
+    "type_ebike": "Bicicleta elétrica",
+    "mileage": "Quilometragem",
+    "costs": "Custos",
+    "no_vehicles": "Nenhum veículo adicionado",
+    "add_first": "Adicione seu primeiro veículo"
+  },
+  "tax": {
+    "title": "Impostos",
+    "estimate": "Estimativa de imposto",
+    "reserve": "Reserva para impostos",
+    "deductions": "Deduções",
+    "period": "Período fiscal"
+  },
+  "analytics": {
+    "title": "Análises",
+    "gross": "Bruto",
+    "net": "Líquido",
+    "burn_ratio": "Taxa de gastos",
+    "active_rate": "Taxa ativa",
+    "online_rate": "Taxa online",
+    "tax_reserve": "Reserva fiscal"
+  },
+  "about": {
+    "title": "Sobre o Comma",
+    "tagline": "COMMA APP · LOCAL E PRIVADO",
+    "close_menu": "Fechar menu",
+    "version": "Versão"
+  }
+}

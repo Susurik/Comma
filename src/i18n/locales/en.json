@@ -1,0 +1,152 @@
+{
+  "navigation": {
+    "dashboard": "Dashboard",
+    "shifts": "Shifts",
+    "analytics": "Analytics",
+    "expenses": "Expenses",
+    "goals": "Goals",
+    "tax": "Tax",
+    "reports": "Reports",
+    "schedule": "Schedule",
+    "vehicles": "Vehicles",
+    "settings": "Settings",
+    "more": "More"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "total": "Total",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "today": "Today",
+    "this_week": "This week",
+    "this_month": "This month"
+  },
+  "dashboard": {
+    "net_earnings": "Net earnings",
+    "hours": "Hours",
+    "kilometers": "Kilometers",
+    "hourly_rate": "Hourly rate",
+    "this_week": "This week",
+    "no_shifts": "No shifts yet",
+    "start_tracking": "Start tracking your first shift"
+  },
+  "shifts": {
+    "title": "Shifts",
+    "new_shift": "New shift",
+    "start_shift": "Start shift",
+    "end_shift": "End shift",
+    "duration": "Duration",
+    "distance": "Distance",
+    "earnings": "Earnings",
+    "tips": "Tips",
+    "platform": "Platform",
+    "vehicle": "Vehicle",
+    "route": "Route",
+    "notes": "Notes",
+    "no_shifts": "No shifts recorded",
+    "add_first": "Add your first shift"
+  },
+  "expenses": {
+    "title": "Expenses",
+    "new_expense": "New expense",
+    "amount": "Amount",
+    "category": "Category",
+    "description": "Description",
+    "date": "Date",
+    "deductible": "Tax deductible",
+    "no_expenses": "No expenses recorded",
+    "add_first": "Add your first expense"
+  },
+  "goals": {
+    "title": "Goals",
+    "weekly_goal": "Weekly goal",
+    "monthly_goal": "Monthly goal",
+    "yearly_goal": "Yearly goal",
+    "progress": "Progress",
+    "target": "Target",
+    "achieved": "Achieved!",
+    "streak": "Streak",
+    "days": "days",
+    "xp": "XP"
+  },
+  "reports": {
+    "title": "Reports",
+    "monthly_summary": "Monthly summary",
+    "export_csv": "Export CSV",
+    "total_earnings": "Total earnings",
+    "total_expenses": "Total expenses",
+    "net": "Net",
+    "shifts_count": "Shifts",
+    "hours_worked": "Hours worked"
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "backup": "Backup",
+    "import": "Import",
+    "language": "Language",
+    "currency": "Currency",
+    "country": "Country",
+    "theme": "Theme",
+    "about": "About Comma",
+    "privacy": "Privacy",
+    "data": "Data"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "default_name": "Driver",
+    "default_initials": "DR",
+    "country": "Country",
+    "platforms": "Platforms",
+    "primary_vehicle": "Primary vehicle"
+  },
+  "vehicles": {
+    "title": "Vehicles",
+    "new_vehicle": "New vehicle",
+    "type_car": "Car",
+    "type_scooter": "Scooter",
+    "type_ebike": "E-Bike",
+    "mileage": "Mileage",
+    "costs": "Costs",
+    "no_vehicles": "No vehicles added",
+    "add_first": "Add your first vehicle"
+  },
+  "tax": {
+    "title": "Tax",
+    "estimate": "Tax estimate",
+    "reserve": "Tax reserve",
+    "deductions": "Deductions",
+    "period": "Tax period"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "gross": "Gross",
+    "net": "Net",
+    "burn_ratio": "Burn ratio",
+    "active_rate": "Active rate",
+    "online_rate": "Online rate",
+    "tax_reserve": "Tax reserve"
+  },
+  "about": {
+    "title": "About Comma",
+    "tagline": "COMMA APP · LOCAL & PRIVATE",
+    "close_menu": "Close menu",
+    "version": "Version"
+  }
+}
